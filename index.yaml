@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  helloworld:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-02T22:54:32.196916359+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a0c2a4135eb032edb7fd809163610f903719bb4901ac919ce9cf9446f03a2d89
+    name: helloworld
+    type: application
+    urls:
+    - https://silentknight2001.github.io/Helm-remote-test/helloworld-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-02T22:54:32.197212038+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a0c2a4135eb032edb7fd809163610f903719bb4901ac919ce9cf9446f03a2d89
+    name: helloworld
+    type: application
+    urls:
+    - https://silentknight2001.github.io/Helm-remote-test/Helm-remote-test/helloworld-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-02T22:54:32.196542873+05:30"
